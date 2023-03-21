@@ -5,7 +5,6 @@ import FAQ from './FAQ';
 import '../pages/home/home.css';
 
 const FAQs = () => {
-  console.log(faqs);
 
   return (
     <section className='faqs'>
